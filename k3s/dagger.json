@@ -1,0 +1,12 @@
+{
+  "name": "k3s",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "utils",
+      "source": "../utils"
+    }
+  ],
+  "source": ".",
+  "engineVersion": "v0.12.0"
+}
